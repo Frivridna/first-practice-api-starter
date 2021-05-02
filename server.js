@@ -5,7 +5,8 @@ import cors from 'cors'
 // Defines the port the app will run on. Defaults to 8080, but can be 
 // overridden when starting the server. For example:
 //
-//   PORT=9000 npm start
+//   PORT=9000 npm start 
+// variable = an environment variable ELSE fall back to default 8080
 const port = process.env.PORT || 8080
 const app = express()
 
@@ -18,7 +19,7 @@ app.get('/', (req, res) => {
   res.send('Hello world')
 })
 
-// Start the server
+// Start the server, first argument is the port it will be running on
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`)
 })
