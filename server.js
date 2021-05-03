@@ -8,7 +8,7 @@ import data from './data.json'
 //
 //   PORT=9000 npm start 
 // variable = an environment variable ELSE fall back to default 8080
-const port = 9000 || 8080
+const port = 7000
 const app = express()
 
 // Add middlewares to enable cors and json body parsing
