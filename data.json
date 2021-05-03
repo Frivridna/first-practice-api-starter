@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0, 
+    "answer": "It is certain.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 1, 
+    "answer": "It is decidedly so.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 2, 
+    "answer": "Without a doubt.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 3, 
+    "answer": "Yes – definitely.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 4, 
+    "answer": "You may rely on it.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 5, 
+    "answer": "As I see it, yes.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 6, 
+    "answer": "Most likely.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 7, 
+    "answer": "Outlook good.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 8, 
+    "answer": "Yes.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 9, 
+    "answer": "Signs point to yes.", 
+    "type": "affirmative"
+  },
+  {
+    "id": 10, 
+    "answer": "Reply hazy, try again.", 
+    "type": "neutral"
+  },
+  {
+    "id": 11, 
+    "answer": "Ask again later.", 
+    "type": "neutral"
+  },
+  {
+    "id": 12, 
+    "answer": "Better not tell you now.", 
+    "type": "neutral"
+  },
+  {
+    "id": 13, 
+    "answer": "Cannot predict now.", 
+    "type": "neutral"
+  },
+  {
+    "id": 14, 
+    "answer": "Concentrate and ask again.", 
+    "type": "neutral"
+  },
+  {
+    "id": 15, 
+    "answer": "Don't count on it.", 
+    "type": "negative"
+  },
+  {
+    "id": 16, 
+    "answer": "My reply is no.", 
+    "type": "negative"
+  },
+  {
+    "id": 17, 
+    "answer": "My sources say no.", 
+    "type": "negative"
+  },
+  {
+    "id": 18, 
+    "answer": "Outlook not so good.", 
+    "type": "negative"
+  },
+  {
+    "id": 19, 
+    "answer": "Very doubtful. ", 
+    "type": "negative"
+  }
+]
